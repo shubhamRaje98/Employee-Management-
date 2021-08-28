@@ -1,10 +1,14 @@
 # Employee-Management-
-This is java project build for management of employees.
-For backend we have used mysql server.
+This is java project build for Employee management.
+Used javaFx, swing libraries for GUI developement.
+Used mysql serever for backend.
 
-The first window of this app is called 'Start_page', which has two respective buttons for employee and manager/admin login in botton right corner.
-This program tries to provide hierarchical view of the organization to user(admin in perticular), by loggin in user is introduced with different departments of company
-and in those different department user can see different projects the employees are working on.
+This project solves the age old problem of managing employees. 
+1)Keeping track of employees working in different departments.
+2)Application is build, by taking example of an IT company, thus have included all IT related departments.
+3)Keeping track of employees leaves.
+4)Employee can issue leave at there end and manager we have a choice to accept or decline the request.
+
 
 By admin login user can manage all kind of employee data, such as 
 
@@ -19,4 +23,3 @@ after he has applied for leave admin will have the previlage to either accepte o
 
 Through employee login user can also check if his leave is accepted or not.
 
-ANY SUGGETIONS ARE WELCOME!
